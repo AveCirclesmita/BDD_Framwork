@@ -1,0 +1,176 @@
+INFO	2023-01-21 19:35:59,397	0	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Welcome To J-Unit BDD Cucumber Framework
+INFO	2023-01-21 19:35:59,398	1	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Demo Web Shop BDD Cucumber Framework Designing
+INFO	2023-01-21 19:35:59,398	1	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Launch Browser
+DEBUG	2023-01-21 19:36:08,830	9433	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-21 19:36:09,014	9617	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Maximizing The Window
+INFO	2023-01-21 19:36:09,057	9660	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Cookies Length Before = 9
+INFO	2023-01-21 19:36:09,758	10361	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click The Gender Button
+INFO	2023-01-21 19:36:11,554	12157	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The First Name Details
+INFO	2023-01-21 19:36:12,255	12858	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Last Name Details
+INFO	2023-01-21 19:36:13,000	13603	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Email Details
+INFO	2023-01-21 19:36:13,699	14302	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The password Details
+INFO	2023-01-21 19:36:14,366	14969	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Confirm Password Details
+INFO	2023-01-21 19:36:16,402	17005	com.cjc.cucumber.DemowebShop.page.RegistrationPage	[main]	Registration Check Is Successful
+INFO	2023-01-21 19:36:16,402	17005	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on The Register Button
+INFO	2023-01-21 19:36:16,403	17006	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see the demo web shop registration successfull
+INFO	2023-01-21 19:52:47,282	0	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Welcome To J-Unit BDD Cucumber Framework
+INFO	2023-01-21 19:52:47,284	2	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Demo Web Shop BDD Cucumber Framework Designing
+INFO	2023-01-21 19:52:47,284	2	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Launch Browser
+DEBUG	2023-01-21 19:53:03,108	15826	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-21 19:53:03,292	16010	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Maximizing The Window
+INFO	2023-01-21 19:53:03,330	16048	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Cookies Length Before = 9
+INFO	2023-01-21 19:53:04,036	16754	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click The Gender Button
+INFO	2023-01-21 19:53:05,935	18653	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The First Name Details
+INFO	2023-01-21 19:53:06,649	19367	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Last Name Details
+INFO	2023-01-21 19:53:07,406	20124	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Email Details
+INFO	2023-01-21 19:53:08,090	20808	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The password Details
+INFO	2023-01-21 19:53:08,756	21474	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Confirm Password Details
+INFO	2023-01-21 19:53:09,836	22554	com.cjc.cucumber.DemowebShop.page.RegistrationPage	[main]	Registration Check Is Successful
+INFO	2023-01-21 19:53:09,837	22555	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on The Register Button
+INFO	2023-01-21 19:53:09,837	22555	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see the demo web shop registration successfull
+INFO	2023-01-21 19:53:09,851	22569	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Able To See The Successfull Register Page
+INFO	2023-01-21 19:54:06,106	0	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Welcome To J-Unit BDD Cucumber Framework
+INFO	2023-01-21 19:54:06,108	2	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Demo Web Shop BDD Cucumber Framework Designing
+INFO	2023-01-21 19:54:06,108	2	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Launch Browser
+DEBUG	2023-01-21 19:54:14,674	8568	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-21 19:54:14,856	8750	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Maximizing The Window
+INFO	2023-01-21 19:54:14,891	8785	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Cookies Length Before = 9
+INFO	2023-01-21 19:54:15,584	9478	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click The Gender Button
+INFO	2023-01-21 19:54:17,679	11573	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The First Name Details
+INFO	2023-01-21 19:54:18,447	12341	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Last Name Details
+INFO	2023-01-21 19:54:19,191	13085	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Email Details
+INFO	2023-01-21 19:54:19,854	13748	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The password Details
+INFO	2023-01-21 19:54:20,521	14415	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Confirm Password Details
+INFO	2023-01-21 19:54:25,320	19214	com.cjc.cucumber.DemowebShop.page.RegistrationPage	[main]	Registration Check Is Successful
+INFO	2023-01-21 19:54:25,321	19215	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on The Register Button
+INFO	2023-01-21 19:54:25,321	19215	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see the demo web shop registration successfull
+INFO	2023-01-21 19:54:25,338	19232	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Able To See The Successfull Register Page
+INFO	2023-01-21 19:54:33,490	27384	com.cjc.cucumber.DemowebShop.page.LogoutPage	[main]	Logout Check Is Successful
+INFO	2023-01-21 19:54:33,490	27384	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on the logout Hyperlink
+INFO	2023-01-21 19:54:33,491	27385	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Successfully Logout The Page
+INFO	2023-01-22 01:06:21,761	0	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Welcome To J-Unit BDD Cucumber Framework
+INFO	2023-01-22 01:06:21,763	2	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Demo Web Shop BDD Cucumber Framework Designing
+INFO	2023-01-22 01:06:21,763	2	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Launch Browser
+DEBUG	2023-01-22 01:06:33,838	12077	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-22 01:06:34,029	12268	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Maximizing The Window
+INFO	2023-01-22 01:06:34,051	12290	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Cookies Length Before = 9
+INFO	2023-01-22 01:06:34,744	12983	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click The Gender Button
+INFO	2023-01-22 01:06:36,583	14822	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The First Name Details
+INFO	2023-01-22 01:06:37,267	15506	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Last Name Details
+INFO	2023-01-22 01:06:38,004	16243	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Email Details
+INFO	2023-01-22 01:06:38,685	16924	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The password Details
+INFO	2023-01-22 01:06:39,317	17556	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Confirm Password Details
+INFO	2023-01-22 01:06:42,387	20626	com.cjc.cucumber.DemowebShop.page.RegistrationPage	[main]	Registration Check Is Successful
+INFO	2023-01-22 01:06:42,387	20626	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on The Register Button
+INFO	2023-01-22 01:06:42,389	20628	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see the demo web shop registration successfull
+INFO	2023-01-22 01:06:42,411	20650	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Able To See The Successfull Register Page
+INFO	2023-01-22 01:06:54,066	32305	com.cjc.cucumber.DemowebShop.page.LogoutPage	[main]	Logout Check Is Successful
+INFO	2023-01-22 01:06:54,066	32305	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on the logout Hyperlink
+INFO	2023-01-22 01:06:54,068	32307	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Successfully Logout The Page
+INFO	2023-01-22 01:06:54,092	32331	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull logout page
+INFO	2023-01-22 01:07:01,886	40125	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Successfully Click On login Hyper Link
+INFO	2023-01-22 01:07:03,645	41884	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The username/email for login
+INFO	2023-01-22 01:07:05,532	43771	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Password for login
+INFO	2023-01-22 01:07:06,157	44396	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on the remember me checkbox
+INFO	2023-01-22 01:07:10,061	48300	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Login Click Is Successful
+INFO	2023-01-22 01:07:10,591	48830	com.cjc.cucumber.DemowebShop.page.LoginPage	[main]	Login Check Is Successful
+INFO	2023-01-22 01:07:10,591	48830	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see the successfully login page
+INFO	2023-01-22 01:07:10,605	48844	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull login page
+INFO	2023-01-22 01:07:18,012	56251	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click To The Add To Cart Hyperlink First
+INFO	2023-01-22 01:07:18,706	56945	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Enter The Recipient Names
+INFO	2023-01-22 01:07:19,400	57639	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Enter The Recipient Email
+INFO	2023-01-22 01:07:20,042	58281	com.cjc.cucumber.DemowebShop.page.AddtoGiftCardPage	[main]	Add To Gift Card Successfully Product One
+INFO	2023-01-22 01:07:20,042	58281	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Succesfully Add To Gift Card
+INFO	2023-01-22 01:07:20,043	58282	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Sucessfully Add The Product Gift Card On Their Cart
+INFO	2023-01-22 01:07:20,051	58290	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Able See Success Add to cart with Gift Card
+INFO	2023-01-22 01:07:20,717	58956	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User want to search another product For cart
+INFO	2023-01-22 01:07:23,755	61994	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click on search box Button
+INFO	2023-01-22 01:07:24,365	62604	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click on Add To Cart Of Book Button
+INFO	2023-01-22 01:07:27,673	65912	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Succesfully Click on the shopping cart Hyperlink
+INFO	2023-01-22 01:07:28,484	66723	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Select The Country
+INFO	2023-01-22 01:07:29,098	67337	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click Terms and condition checkbox
+INFO	2023-01-22 01:07:33,517	71756	com.cjc.cucumber.DemowebShop.page.AddtoCartBooksPage	[main]	Add To Cart Book Is Succesfull with Complete Checkout
+INFO	2023-01-22 01:07:33,517	71756	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Add To Shopping Cart Of Book Is Succesfull And Checkout
+INFO	2023-01-22 01:07:33,517	71756	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull Filling Shopping Cart Details
+INFO	2023-01-22 01:07:33,538	71777	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull Filling Shopping Cart Details
+INFO	2023-01-22 01:07:34,187	72426	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Company Name
+INFO	2023-01-22 01:07:35,503	73742	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Select The Country
+INFO	2023-01-22 01:07:36,146	74385	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The City Name
+INFO	2023-01-22 01:07:36,803	75042	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Address 1
+INFO	2023-01-22 01:07:37,502	75741	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Address 2
+INFO	2023-01-22 01:07:38,147	76386	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Postal Code
+INFO	2023-01-22 01:07:38,825	77064	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Phone Number
+INFO	2023-01-22 01:07:39,512	77751	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The fax No
+INFO	2023-01-22 01:07:45,886	84125	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on the Billing Button Continue
+INFO	2023-01-22 01:07:45,886	84125	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see success billing address window
+INFO	2023-01-22 01:07:45,944	84183	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to successfully adding billing address
+INFO	2023-01-22 01:07:46,747	84986	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Payment method successfully choosen
+INFO	2023-01-22 01:07:47,668	85907	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Getting Payment Information and continue
+INFO	2023-01-22 01:07:49,706	87945	com.cjc.cucumber.DemowebShop.page.BillingAdressPage	[main]	Order number: 1360598
+INFO	2023-01-22 01:07:49,706	87945	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Order Confirm By The User
+INFO	2023-01-22 01:07:53,059	91298	com.cjc.cucumber.DemowebShop.page.BillingAdressPage	[main]	Go to Home Page After Clicking The Last Continue Button
+INFO	2023-01-22 01:07:53,059	91298	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Order Confirm By The User and go back to the home page
+INFO	2023-01-22 01:16:11,258	0	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Welcome To J-Unit BDD Cucumber Framework
+INFO	2023-01-22 01:16:11,259	1	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Demo Web Shop BDD Cucumber Framework Designing
+INFO	2023-01-22 01:16:11,260	2	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Launch Browser
+DEBUG	2023-01-22 01:16:21,307	10049	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Send URL to the browser By XML Parameter
+INFO	2023-01-22 01:16:21,497	10239	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Maximizing The Window
+INFO	2023-01-22 01:16:21,525	10267	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Cookies Length Before = 9
+INFO	2023-01-22 01:16:22,242	10984	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click The Gender Button
+INFO	2023-01-22 01:16:24,118	12860	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The First Name Details
+INFO	2023-01-22 01:16:25,689	14431	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Last Name Details
+INFO	2023-01-22 01:16:26,355	15097	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Email Details
+INFO	2023-01-22 01:16:27,048	15790	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The password Details
+INFO	2023-01-22 01:16:27,719	16461	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Confirm Password Details
+INFO	2023-01-22 01:16:30,922	19664	com.cjc.cucumber.DemowebShop.page.RegistrationPage	[main]	Registration Check Is Successful
+INFO	2023-01-22 01:16:30,922	19664	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on The Register Button
+INFO	2023-01-22 01:16:30,923	19665	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see the demo web shop registration successfull
+INFO	2023-01-22 01:16:30,941	19683	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Able To See The Successfull Register Page
+INFO	2023-01-22 01:16:35,901	24643	com.cjc.cucumber.DemowebShop.page.LogoutPage	[main]	Logout Check Is Successful
+INFO	2023-01-22 01:16:35,901	24643	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on the logout Hyperlink
+INFO	2023-01-22 01:16:35,901	24643	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Successfully Logout The Page
+INFO	2023-01-22 01:16:35,918	24660	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull logout page
+INFO	2023-01-22 01:16:38,339	27081	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Successfully Click On login Hyper Link
+INFO	2023-01-22 01:16:40,107	28849	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The username/email for login
+INFO	2023-01-22 01:16:40,813	29555	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Password for login
+INFO	2023-01-22 01:16:41,430	30172	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on the remember me checkbox
+INFO	2023-01-22 01:16:45,170	33912	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Login Click Is Successful
+INFO	2023-01-22 01:16:45,707	34449	com.cjc.cucumber.DemowebShop.page.LoginPage	[main]	Login Check Is Successful
+INFO	2023-01-22 01:16:45,707	34449	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see the successfully login page
+INFO	2023-01-22 01:16:45,720	34462	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull login page
+INFO	2023-01-22 01:16:55,426	44168	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click To The Add To Cart Hyperlink First
+INFO	2023-01-22 01:16:56,118	44860	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Enter The Recipient Names
+INFO	2023-01-22 01:16:56,827	45569	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Enter The Recipient Email
+INFO	2023-01-22 01:16:57,444	46186	com.cjc.cucumber.DemowebShop.page.AddtoGiftCardPage	[main]	Add To Gift Card Successfully Product One
+INFO	2023-01-22 01:16:57,444	46186	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Succesfully Add To Gift Card
+INFO	2023-01-22 01:16:57,444	46186	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Sucessfully Add The Product Gift Card On Their Cart
+INFO	2023-01-22 01:16:57,454	46196	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Able See Success Add to cart with Gift Card
+INFO	2023-01-22 01:16:58,105	46847	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User want to search another product For cart
+INFO	2023-01-22 01:17:01,045	49787	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click on search box Button
+INFO	2023-01-22 01:17:01,664	50406	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click on Add To Cart Of Book Button
+INFO	2023-01-22 01:17:05,280	54022	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Succesfully Click on the shopping cart Hyperlink
+INFO	2023-01-22 01:17:06,091	54833	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Select The Country
+INFO	2023-01-22 01:17:06,693	55435	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User Click Terms and condition checkbox
+INFO	2023-01-22 01:17:10,908	59650	com.cjc.cucumber.DemowebShop.page.AddtoCartBooksPage	[main]	Add To Cart Book Is Succesfull with Complete Checkout
+INFO	2023-01-22 01:17:10,908	59650	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Add To Shopping Cart Of Book Is Succesfull And Checkout
+INFO	2023-01-22 01:17:10,909	59651	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull Filling Shopping Cart Details
+INFO	2023-01-22 01:17:10,919	59661	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see successfull Filling Shopping Cart Details
+INFO	2023-01-22 01:17:11,592	60334	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Company Name
+INFO	2023-01-22 01:17:12,856	61598	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Select The Country
+INFO	2023-01-22 01:17:13,518	62260	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The City Name
+INFO	2023-01-22 01:17:14,197	62939	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Address 1
+INFO	2023-01-22 01:17:14,887	63629	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Address 2
+INFO	2023-01-22 01:17:15,545	64287	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Postal Code
+INFO	2023-01-22 01:17:16,238	64980	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The Phone Number
+INFO	2023-01-22 01:17:16,950	65692	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Enter The fax No
+INFO	2023-01-22 01:17:21,038	69780	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Click on the Billing Button Continue
+INFO	2023-01-22 01:17:21,039	69781	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to see success billing address window
+INFO	2023-01-22 01:17:21,048	69790	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	User able to successfully adding billing address
+INFO	2023-01-22 01:17:21,977	70719	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Payment method successfully choosen
+INFO	2023-01-22 01:17:23,299	72041	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Getting Payment Information and continue
+INFO	2023-01-22 01:17:26,780	75522	com.cjc.cucumber.DemowebShop.page.BillingAdressPage	[main]	Screen Shot After For Booking Confirmation
+INFO	2023-01-22 01:17:26,825	75567	com.cjc.cucumber.DemowebShop.page.BillingAdressPage	[main]	Order number: 1360600
+INFO	2023-01-22 01:17:26,825	75567	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Order Confirm By The User
+INFO	2023-01-22 01:17:28,811	77553	com.cjc.cucumber.DemowebShop.page.BillingAdressPage	[main]	Go to Home Page After Clicking The Last Continue Button
+INFO	2023-01-22 01:17:28,811	77553	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Order Confirm By The User and go back to the home page
+INFO	2023-01-22 01:17:31,273	80015	com.cjc.cucumber.DemowebShop.stepDef.DemoWebShopStepDef	[main]	Now user able to see confirm order successfully in the demo web shop
