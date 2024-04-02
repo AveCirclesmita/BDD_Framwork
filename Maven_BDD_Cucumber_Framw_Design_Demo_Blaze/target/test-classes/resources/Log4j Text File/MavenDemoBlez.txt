@@ -1,0 +1,253 @@
+INFO	2023-01-20 13:45:29,822	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 13:45:29,823	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 13:45:29,823	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 13:45:35,726	5904	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 13:45:35,932	6110	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 13:45:35,972	6150	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 13:46:38,943	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 13:46:38,945	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 13:46:38,945	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 13:46:42,920	3977	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 13:46:43,122	4179	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 13:46:43,153	4210	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 13:50:24,264	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 13:50:24,265	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 13:50:24,265	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 13:50:28,965	4701	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 13:50:29,146	4882	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 13:50:29,176	4912	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 13:55:28,409	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 13:55:28,411	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 13:55:28,411	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 13:55:32,933	4524	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 13:55:33,111	4702	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 13:55:33,132	4723	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 13:56:48,133	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 13:56:48,134	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 13:56:48,134	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 13:56:52,409	4276	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 13:56:52,581	4448	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 13:56:52,600	4467	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 14:01:49,745	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 14:01:49,746	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 14:01:49,746	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 14:01:58,854	9109	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 14:01:59,038	9293	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 14:01:59,085	9340	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 0
+INFO	2023-01-20 14:06:13,957	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 14:06:13,959	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 14:06:13,959	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 14:06:19,044	5087	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 14:06:19,252	5295	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 14:06:19,279	5322	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 14:06:20,120	6163	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-20 14:06:59,235	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 14:06:59,238	3	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 14:06:59,238	3	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 14:07:03,221	3986	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 14:07:03,409	4174	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 14:07:03,429	4194	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 14:07:04,172	4937	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-20 14:26:03,914	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 14:26:03,915	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 14:26:03,915	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 14:26:08,666	4752	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 14:26:08,871	4957	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 14:26:08,898	4984	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 14:26:09,734	5820	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-20 14:26:11,296	7382	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-20 14:26:12,460	8546	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-20 14:26:14,077	10163	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-20 14:26:15,096	11182	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User The Handle The Alert Successfully
+INFO	2023-01-20 14:26:15,097	11183	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the Demo Blaze Sign Up SuccessFul
+INFO	2023-01-20 19:51:47,046	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-20 19:51:47,047	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-20 19:51:47,047	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-20 19:51:52,664	5618	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-20 19:51:52,847	5801	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-20 19:51:52,870	5824	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-20 19:51:53,531	6485	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-20 19:51:55,269	8223	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-20 19:51:56,446	9400	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-20 19:51:58,129	11083	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-20 19:51:59,176	12130	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User The Handle The Alert Successfully
+INFO	2023-01-20 19:51:59,177	12131	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the Demo Blaze Sign Up SuccessFul
+INFO	2023-01-21 12:13:42,777	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-21 12:13:42,778	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-21 12:13:42,778	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-21 12:13:47,408	4631	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-21 12:13:47,581	4804	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-21 12:13:47,595	4818	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 0
+INFO	2023-01-21 12:13:48,259	5482	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-21 12:13:49,619	6842	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-21 12:13:50,746	7969	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-21 12:13:52,339	9562	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-21 12:13:53,367	10590	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User The Handle The Alert Successfully
+INFO	2023-01-21 12:13:53,368	10591	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the Demo Blaze Sign Up SuccessFul
+INFO	2023-01-21 12:13:53,383	10606	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	See To The Successfull Sign up Page
+INFO	2023-01-21 12:13:54,173	11396	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Login hyperlink
+INFO	2023-01-21 12:13:54,799	12022	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login User Name Details
+INFO	2023-01-21 12:13:55,411	12634	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login Password Details
+INFO	2023-01-21 12:13:56,037	13260	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Login Button
+INFO	2023-01-21 12:13:56,038	13261	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Able To See Successfull Login Screen
+INFO	2023-01-21 12:20:35,269	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-21 12:20:35,270	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-21 12:20:35,270	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-21 12:20:38,638	3369	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-21 12:20:38,804	3535	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-21 12:20:38,827	3558	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-21 12:20:39,456	4187	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-21 12:20:40,747	5478	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-21 12:20:41,865	6596	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-21 12:20:43,443	8174	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-21 12:20:44,464	9195	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User The Handle The Alert Successfully
+INFO	2023-01-21 12:20:44,465	9196	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the Demo Blaze Sign Up SuccessFul
+INFO	2023-01-21 12:20:44,476	9207	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	See To The Successfull Sign up Page
+INFO	2023-01-21 12:20:45,263	9994	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Login hyperlink
+INFO	2023-01-21 12:20:45,897	10628	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login User Name Details
+INFO	2023-01-21 12:20:46,505	11236	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login Password Details
+INFO	2023-01-21 12:20:47,583	12314	com.cjc.cucumber.DemoBlaze.page.DemoBlaze2Login	[main]	User Login
+INFO	2023-01-21 12:20:47,583	12314	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Login Button
+INFO	2023-01-21 12:20:47,585	12316	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Able To See Successfull Login Screen
+INFO	2023-01-21 14:30:51,417	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-21 14:30:51,418	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-21 14:30:51,418	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-21 14:30:59,204	7788	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-21 14:30:59,384	7968	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-21 14:30:59,401	7985	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 0
+INFO	2023-01-21 14:31:00,164	8748	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-21 14:31:01,951	10535	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-21 14:31:03,121	11705	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-21 14:31:04,744	13328	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-21 14:31:05,772	14356	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User The Handle The Alert Successfully
+INFO	2023-01-21 14:31:05,773	14357	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the Demo Blaze Sign Up SuccessFul
+INFO	2023-01-21 14:31:05,792	14376	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	See To The Successfull Sign up Page
+INFO	2023-01-21 14:31:06,615	15199	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Login hyperlink
+INFO	2023-01-21 14:31:07,314	15898	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login User Name Details
+INFO	2023-01-21 14:31:07,996	16580	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login Password Details
+INFO	2023-01-21 14:31:09,094	17678	com.cjc.cucumber.DemoBlaze.page.DemoBlaze2Login	[main]	User Login
+INFO	2023-01-21 14:31:09,094	17678	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Login Button
+INFO	2023-01-21 14:31:09,096	17680	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Able To See Successfull Login Screen
+INFO	2023-01-21 14:31:09,106	17690	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfull Login page of DBS
+INFO	2023-01-21 14:31:12,080	20664	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On Product One Hyperlink
+INFO	2023-01-21 14:31:13,332	21916	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product One Add To Cart Button
+INFO	2023-01-21 14:31:14,369	22953	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Okay Button Of Alert Button 1
+INFO	2023-01-21 14:31:16,095	24679	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Home Hyperlink To Go In Home Page
+INFO	2023-01-21 14:31:17,282	25866	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product Two Hyperlink
+INFO	2023-01-21 14:31:18,378	26962	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product Two Add To Cart Button
+INFO	2023-01-21 14:31:19,402	27986	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Okay Button And Handle The Alert Two
+INFO	2023-01-21 14:31:21,434	30018	com.cjc.cucumber.DemoBlaze.page.DemoBlaze3AddToCart	[main]	Product Add To Cart
+INFO	2023-01-21 14:31:21,435	30019	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Cart Hyperlink In DBS
+INFO	2023-01-21 14:31:21,435	30019	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the successfull Add To Cart page On Screen
+INFO	2023-01-21 14:31:21,442	30026	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfully Added Product On The Add To Cart 
+INFO	2023-01-21 14:31:22,033	30617	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click on The Place Order Button
+INFO	2023-01-21 14:31:22,687	31271	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Name
+INFO	2023-01-21 14:31:23,307	31891	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Country
+INFO	2023-01-21 14:31:23,949	32533	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Country
+INFO	2023-01-21 14:31:24,577	33161	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Credit Card
+INFO	2023-01-21 14:31:25,204	33788	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Month
+INFO	2023-01-21 14:31:25,844	34428	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Year
+INFO	2023-01-21 14:31:27,327	35911	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click On The Purchse Button
+INFO	2023-01-21 14:31:31,413	39997	com.cjc.cucumber.DemoBlaze.page.DemoBlaze4PlaceOrder	[main]	Place The Order
+INFO	2023-01-21 14:31:31,413	39997	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click On The Last Okay Button
+INFO	2023-01-21 14:31:31,414	39998	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Sucessfully Book The Product In DBS
+INFO	2023-01-21 14:36:14,008	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-21 14:36:14,009	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-21 14:36:14,009	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-21 14:36:18,944	4936	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-21 14:36:19,169	5161	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-21 14:36:19,205	5197	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-21 14:36:19,893	5885	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Gender Details
+INFO	2023-01-21 14:36:21,290	7282	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-21 14:36:22,430	8422	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-21 14:36:24,043	10035	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-21 14:36:25,070	11062	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User The Handle The Alert Successfully
+INFO	2023-01-21 14:36:25,073	11065	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the Demo Blaze Sign Up SuccessFul
+INFO	2023-01-21 14:36:25,106	11098	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	See To The Successfull Sign up Page
+INFO	2023-01-21 14:36:25,918	11910	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Login hyperlink
+INFO	2023-01-21 14:36:26,640	12632	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login User Name Details
+INFO	2023-01-21 14:36:27,300	13292	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login Password Details
+INFO	2023-01-21 14:36:28,386	14378	com.cjc.cucumber.DemoBlaze.page.DemoBlaze2Login	[main]	User Login
+INFO	2023-01-21 14:36:28,387	14379	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Login Button
+INFO	2023-01-21 14:36:28,388	14380	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Able To See Successfull Login Screen
+INFO	2023-01-21 14:36:28,404	14396	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfull Login page of DBS
+INFO	2023-01-21 14:36:31,665	17657	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On Product One Hyperlink
+INFO	2023-01-21 14:36:33,037	19029	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product One Add To Cart Button
+INFO	2023-01-21 14:36:34,062	20054	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Okay Button Of Alert Button 1
+INFO	2023-01-21 14:36:35,734	21726	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Home Hyperlink To Go In Home Page
+INFO	2023-01-21 14:36:36,908	22900	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product Two Hyperlink
+INFO	2023-01-21 14:36:38,022	24014	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product Two Add To Cart Button
+INFO	2023-01-21 14:36:39,054	25046	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Okay Button And Handle The Alert Two
+INFO	2023-01-21 14:36:40,986	26978	com.cjc.cucumber.DemoBlaze.page.DemoBlaze3AddToCart	[main]	Product Add To Cart
+INFO	2023-01-21 14:36:40,986	26978	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Cart Hyperlink In DBS
+INFO	2023-01-21 14:36:40,986	26978	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the successfull Add To Cart page On Screen
+INFO	2023-01-21 14:36:40,998	26990	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfully Added Product On The Add To Cart 
+INFO	2023-01-21 14:36:41,604	27596	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click on The Place Order Button
+INFO	2023-01-21 14:36:42,280	28272	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Name
+INFO	2023-01-21 14:36:42,905	28897	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Country
+INFO	2023-01-21 14:36:43,556	29548	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Country
+INFO	2023-01-21 14:36:44,196	30188	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Credit Card
+INFO	2023-01-21 14:36:44,857	30849	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Month
+INFO	2023-01-21 14:36:45,497	31489	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Year
+INFO	2023-01-21 14:36:48,114	34106	com.cjc.cucumber.DemoBlaze.page.DemoBlaze4PlaceOrder	[main]	Screen Shot After For Booking Confirmation
+INFO	2023-01-21 14:36:48,474	34466	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click On The Purchse Button
+INFO	2023-01-21 14:36:52,051	38043	com.cjc.cucumber.DemoBlaze.page.DemoBlaze4PlaceOrder	[main]	Place The Order
+INFO	2023-01-21 14:36:52,051	38043	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click On The Last Okay Button
+INFO	2023-01-21 14:36:52,051	38043	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Sucessfully Book The Product In DBS
+INFO	2023-01-23 10:55:12,441	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-23 10:55:12,442	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-23 10:55:12,443	2	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-23 10:55:19,997	7556	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-23 10:55:20,180	7739	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-23 10:55:20,200	7759	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-23 10:55:20,872	8431	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Signup Hyperlink
+INFO	2023-01-23 10:55:22,361	9920	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-23 10:55:23,535	11094	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-23 10:55:25,134	12693	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-23 10:55:25,209	12768	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	See To The Successfull Sign up Page
+INFO	2023-01-23 10:55:26,574	14133	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Login hyperlink
+INFO	2023-01-23 10:55:26,670	14229	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfull Login page of DBS
+INFO	2023-01-23 10:56:07,057	54616	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfully Added Product On The Add To Cart 
+INFO	2023-01-23 10:57:01,943	0	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Welcome To Cucumber J-Unit
+INFO	2023-01-23 10:57:01,944	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Demo Blaze Shop Register J-Unit Script In BDD Cucumber Framework 
+INFO	2023-01-23 10:57:01,944	1	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Launch Browser
+DEBUG	2023-01-23 10:57:05,696	3753	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Send URL to the browser By XML Parameter Concept
+INFO	2023-01-23 10:57:05,872	3929	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Maximizing The Window
+INFO	2023-01-23 10:57:05,929	3986	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Cookies Length Before = 1
+INFO	2023-01-23 10:57:06,639	4696	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Signup Hyperlink
+INFO	2023-01-23 10:57:08,231	6288	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The User Name Details In Sign Up
+INFO	2023-01-23 10:57:09,403	7460	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The Password Details In Sign Up
+INFO	2023-01-23 10:57:10,985	9042	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Sign Up Button
+INFO	2023-01-23 10:57:12,010	10067	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User The Handle The Alert Successfully
+INFO	2023-01-23 10:57:12,012	10069	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the Demo Blaze Sign Up SuccessFul
+INFO	2023-01-23 10:57:12,030	10087	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	See To The Successfull Sign up Page
+INFO	2023-01-23 10:57:12,819	10876	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Login hyperlink
+INFO	2023-01-23 10:57:13,514	11571	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login User Name Details
+INFO	2023-01-23 10:57:14,153	12210	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Enter The login Password Details
+INFO	2023-01-23 10:57:15,261	13318	com.cjc.cucumber.DemoBlaze.page.DemoBlaze2Login	[main]	User Login
+INFO	2023-01-23 10:57:15,261	13318	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Login Button
+INFO	2023-01-23 10:57:15,264	13321	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Able To See Successfull Login Screen
+INFO	2023-01-23 10:57:15,278	13335	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfull Login page of DBS
+INFO	2023-01-23 10:57:18,379	16436	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On Product One Hyperlink
+INFO	2023-01-23 10:57:19,717	17774	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product One Add To Cart Button
+INFO	2023-01-23 10:57:20,746	18803	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Okay Button Of Alert Button 1
+INFO	2023-01-23 10:57:22,350	20407	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click on the Home Hyperlink To Go In Home Page
+INFO	2023-01-23 10:57:23,425	21482	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product Two Hyperlink
+INFO	2023-01-23 10:57:24,523	22580	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Product Two Add To Cart Button
+INFO	2023-01-23 10:57:25,548	23605	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Okay Button And Handle The Alert Two
+INFO	2023-01-23 10:57:27,376	25433	com.cjc.cucumber.DemoBlaze.page.DemoBlaze3AddToCart	[main]	Product Add To Cart
+INFO	2023-01-23 10:57:27,376	25433	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	Click On The Cart Hyperlink In DBS
+INFO	2023-01-23 10:57:27,377	25434	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see the successfull Add To Cart page On Screen
+INFO	2023-01-23 10:57:27,382	25439	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User able to see successfully Added Product On The Add To Cart 
+INFO	2023-01-23 10:57:27,984	26041	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click on The Place Order Button
+INFO	2023-01-23 10:57:28,667	26724	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Name
+INFO	2023-01-23 10:57:29,312	27369	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Country
+INFO	2023-01-23 10:57:29,942	27999	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Country
+INFO	2023-01-23 10:57:30,582	28639	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Credit Card
+INFO	2023-01-23 10:57:31,254	29311	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Month
+INFO	2023-01-23 10:57:31,884	29941	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Enter The Place Order Year
+INFO	2023-01-23 10:57:34,361	32418	com.cjc.cucumber.DemoBlaze.page.DemoBlaze4PlaceOrder	[main]	Screen Shot After For Booking Confirmation
+INFO	2023-01-23 10:57:34,726	32783	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click On The Purchse Button
+INFO	2023-01-23 10:57:37,790	35847	com.cjc.cucumber.DemoBlaze.page.DemoBlaze4PlaceOrder	[main]	Place The Order
+INFO	2023-01-23 10:57:37,790	35847	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Click On The Last Okay Button
+INFO	2023-01-23 10:57:37,791	35848	com.cjc.cucumber.DemoBlaze.stepDef.DemoBlazeStepDef	[main]	User Sucessfully Book The Product In DBS
